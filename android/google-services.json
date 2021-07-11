@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487773104678",
+    "project_id": "sms-encrypter",
+    "storage_bucket": "sms-encrypter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487773104678:android:67e40a41177131b230d4e7",
+        "android_client_info": {
+          "package_name": "com.example.sms_encrypter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487773104678-oc7h7ghfm5agog4lsql0nunhkfbf7aue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAva8mrB0VDY25Lt7uNeEasiFPfqaEP4_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487773104678-oc7h7ghfm5agog4lsql0nunhkfbf7aue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
